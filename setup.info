@@ -1,0 +1,7 @@
+#Check conda version
+conda --version
+
+conda create --name dev # create virtual environment named dev
+source activate dev # to activate environment
+source deactivate dev # to deactivate environment
+conda info --envs # list envs 
