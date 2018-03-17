@@ -1,1 +1,1 @@
-# A placeholder to keep notes of projects.
+A placeholder to keep notes of projects.
