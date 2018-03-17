@@ -5,3 +5,8 @@ conda create --name dev # create virtual environment named dev
 source activate dev # to activate environment
 source deactivate dev # to deactivate environment
 conda info --envs # list envs 
+
+# Check python version
+python --version
+conda install pip
+conda install pandas
